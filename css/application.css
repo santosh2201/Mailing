@@ -1,0 +1,47 @@
+.practoBar{
+	text-align:center;
+	font-size:30px;
+	height:100%;
+	width:100%;
+	padding:15px;
+	background-color:#292A2D;
+	color:#B3B3BD;
+}
+/* index page */
+.person-container{
+	padding: 10px;
+	border: 1px solid #aaa;
+	margin: 0 10px 10px 0;
+	float: left;
+	font-family: sans-serif;
+	color: #333;
+	background-color: #eee;
+}
+.history-tile{
+	cursor: pointer;
+	padding: 10px;
+	background: #EEEEEE;
+	font-family: sans-serif;
+	height:54px;
+	overflow:hidden;
+	border: 1px solid rgb(235, 229, 229);
+}
+.modal-dialog {
+	width:1000px;
+}
+.personDiv{
+	width: 135px;
+	margin: 0px;
+	float: left;
+}
+.person-container-text{
+	font-size: 18px;
+	font-family: serif;
+	line-height: 16px;
+}
+.select_all{
+	-ms-transform: scale(1.4); /* IE */
+	-moz-transform: scale(1.4); /* FF */
+	-webkit-transform: scale(1.4); /* Safari and Chrome */
+	-o-transform: scale(1.4); /* Opera */
+}
