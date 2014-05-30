@@ -15,5 +15,5 @@ This application uses PHPMailer to send emails.
 Setup
 =====
 
-1) To setup Mysql, please edit "Model/mysql-connect.php"<br>
+1) To setup Mysql, please edit "model/mysql-connect.php"<br>
 2) Change $mail-&gt;addAddress() parameter in "mail-api.php" to your mail id or $email to test it with Apiary.io API<br>

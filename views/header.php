@@ -20,7 +20,7 @@
    </head>
    <body>
       <nav class="navbar navbar-default" role="navigation">
-         <div style="" class="practoBar">
+         <div class="practoBar">
             PRACTO
          </div>
       </nav>
